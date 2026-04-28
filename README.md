@@ -1,2 +1,11 @@
-# AI-Disaster-Response-Assistant
-AI-powered disaster response system that provides real-time alerts, prediction, chatbot assistance, and emergency SOS support using cloud and AI technologies.
+# AI Disaster Response Assistant
+
+This project aims to provide real-time disaster alerts, AI-based assistance, and emergency response support using modern technologies like AI and cloud computing.
+
+Features:
+- Disaster prediction
+- Real-time alerts
+- SOS emergency system
+- AI chatbot support
+
+Status: Prototype Phase

@@ -1,11 +1,23 @@
 # AI Disaster Response Assistant
 
-This project aims to provide real-time disaster alerts, AI-based assistance, and emergency response support using modern technologies like AI and cloud computing.
+## 🚀 Overview
+AI Disaster Response Assistant is designed to help people during disasters by providing real-time alerts, AI-based guidance, and emergency support.
 
-Features:
-- Disaster prediction
-- Real-time alerts
+## 🔥 Features
+- Real-time disaster alerts
+- AI chatbot assistance
 - SOS emergency system
-- AI chatbot support
+- Safe route navigation
+- Disaster prediction
 
-Status: Prototype Phase
+## 🛠 Technologies
+- Frontend: React
+- Backend: Node.js / Python
+- AI: Google Gemini
+- Cloud: Google Cloud Platform
+
+## 📌 Status
+Prototype Phase (Submitted for Solution Challenge)
+
+## 👨‍💻 Author
+Aditya Adari
